@@ -277,6 +277,7 @@ export default {
       ]
     };
   },
+  
   mounted() {
     /* banner-swiper */
     new Swiper(".banner-swiper", {
