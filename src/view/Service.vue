@@ -33,22 +33,22 @@ export default {
             serviceList: [
                 {
                     id: 'section-1',
-                    title: '软件定制开发',
+                    title: '互联网产品研发',
                     eng_title: 'Customize App',
                     img: require('@/assets/img/service1.jpg')
                 },{
                     id: 'section-2',
-                    title: 'IT外包服务',
+                    title: '信息技术服务',
                     eng_title: 'Outsourcing',
                     img: require('@/assets/img/service2.jpg')
                 },{
                     id: 'section-3',
-                    title: '网上商城建设',
+                    title: '物联网',
                     eng_title: 'eCommerce Site',
                     img: require('@/assets/img/service3.jpg')
                 },{
                     id: 'section-4',
-                    title: 'iOS应用定制开发',
+                    title: '软件集成',
                     eng_title: 'iOS App Dev',
                     img: require('@/assets/img/service4.jpg')
                 }

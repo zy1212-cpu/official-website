@@ -3,10 +3,11 @@
     <div class="logo">
       <img src="@/assets/img/logo_white.png" alt="logo图">
     </div>
-    <p class="title">公司企业网站模板</p>
+    <p class="title">极派信息科技（苏州）有限公司</p>
     <p class="address_tel_fax">
-      <span>地址：公司地址公司地址公司地址公司地址</span>
-      <span>Tel：888-888-888</span>
+      <span>地址：中国江苏省苏州市工业园区-创意产业园B栋</span>
+      
+      <span>Tel：18550330353</span>
       <span>Fax：8888-88888888</span>
     </p>
     <p class="email_wx">
